@@ -1,0 +1,5 @@
+name: Flame-ChatManager
+version: 1.0.0
+main: com.noobzinhoflame.ChatManager.Main
+author: NoobzinhoFLAME
+load: STARTUP

@@ -1,0 +1,11 @@
+com\noobzinhoflame\ChatManager\events\custom\TimeSecondEvent.class
+com\noobzinhoflame\ChatManager\utils\nms\ActionBarAPI.class
+com\noobzinhoflame\ChatManager\commands\base\CommandBase.class
+com\noobzinhoflame\ChatManager\Main$1.class
+com\noobzinhoflame\ChatManager\Main$2.class
+com\noobzinhoflame\ChatManager\commands\ChatCommand.class
+com\noobzinhoflame\ChatManager\events\custom\TimeSecondEvent$TimeType.class
+com\noobzinhoflame\ChatManager\events\CustomEvent.class
+com\noobzinhoflame\ChatManager\listener\ChatListener.class
+com\noobzinhoflame\ChatManager\utils\cooldown\Cooldown.class
+com\noobzinhoflame\ChatManager\Main.class

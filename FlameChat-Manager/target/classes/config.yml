@@ -1,0 +1,90 @@
+############################################################
+# -------------------------------------------------------- #
+# |                      Cooldown                        | #
+# -------------------------------------------------------- #
+############################################################
+
+# Ativar e desativar o cooldown do chat.
+ChatCooldown: true
+
+# Caso o cooldown do chat estiver ativado, ative ou desative a barra de progresso do cooldown.
+ActionDisplayCooldown: true
+
+# Tempo do cooldown do chat, padrão 4 segundos.
+ChatCooldownTime: 4
+
+# Som que sera feito quando o cooldown acabar. (Para deixar sem som deixe vazio "")
+Sound: "CHICKEN_EGG_POP"
+
+############################################################
+# -------------------------------------------------------- #
+# |                      Anti-Links                      | #
+# -------------------------------------------------------- #
+############################################################
+
+# Ativar e desativar o sistema anti-links.
+Anti-Link: true
+
+############################################################
+# -------------------------------------------------------- #
+# |                      Chat-Color                      | #
+# -------------------------------------------------------- #
+############################################################
+
+# Ativar e desativar o sistema de mensagens coloridas.
+Chat-Color: true
+
+############################################################
+# -------------------------------------------------------- #
+# |                 Mensagens Automaticas                | #
+# -------------------------------------------------------- #
+############################################################
+
+# Ativar e desativar o sistema de mensagens automaticas.
+MensagensAutomaticas: true
+
+# de quanto em quanto tempo cada mensagem sera enviada em segundos, padrão 5 minutos.
+MensagensCooldown: 300
+
+# Mensagens
+messages:
+  - "&aEdite na config"
+  - "&eEdite na config"
+  - "&cEdite na config"
+  - "&bEdite na config"
+
+############################################################
+# -------------------------------------------------------- #
+# |                    Anti-Xingamentos                  | #
+# -------------------------------------------------------- #
+############################################################
+
+# Ativar e desativar o sistema anti-xingamentos.
+AntiXingamentos: true
+
+# Lista de palavras ofensivas a serem censuradas.
+
+PalavrasOfensivas:
+  - cu
+  - buceta
+  - porra
+  - autista
+  - arrombado
+  - arrombada
+  - caralho
+  - desgraçado
+  - desgraçada
+  - fodido
+  - fudido
+  - otário
+  - otario
+  - macaco
+  - preto
+  - negro
+  - puto
+  - puta
+  - piroca
+  - retardada
+  - retardado
+  - pika
+  - sfdr
